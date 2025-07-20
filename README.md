@@ -63,8 +63,7 @@ JSX can be employed as a template language, enabling your server to dynamically 
 
 # Conceptual Representation
 
-![components](https://media.git.generalassemb.ly/user/15881/files/c8fa3780-92ec-11ea-8b7c-8bf723456c19)
-
+![seperation](https://github.com/user-attachments/assets/b43462f2-9504-4b28-967f-968210b49153)
 
 ### Breaking down tasks into self-sufficient units
 We can visualize this concept by imagining a game scenario where there are multiple jobs such as fighting, fishing, and healing. We can form groups focused on each task separately, or create smaller self-sufficient groups with all roles represented. Each approach has its advantages.
@@ -215,7 +214,8 @@ You're good to go!
 <center>
 <div style="display: flex; justify-content: space-between;">
 
-![arthur_node_jsx_diagram_photoshopped](https://media.git.generalassemb.ly/user/15881/files/c2cf4100-2e61-11eb-913c-d8b656fd9709)
+<img width="871" height="423" alt="mvc" src="https://github.com/user-attachments/assets/b533d54b-f3b3-43c3-afcb-03c3ae581713" />
+
 
 </div>
 </center>
@@ -540,9 +540,7 @@ app.listen(PORT, () =>{
 
 <div style="display: flex; justify-content: space-between;">
 
-![arthur_node_jsx_diagram_photoshopped](https://media.git.generalassemb.ly/user/15881/files/c2cf4100-2e61-11eb-913c-d8b656fd9709)
-
-![mvc-meme](https://media.git.generalassemb.ly/user/15881/files/24990200-9460-11ea-8f91-a81163b612d5)
+<img width="871" height="423" alt="mvc" src="https://github.com/user-attachments/assets/0aa4a63f-ecc8-4872-83cb-28da34501cf5" />
 
 </div>
 </center>
@@ -625,9 +623,7 @@ Topics Covered:
 
 <div style="display: flex; justify-content: space-between;">
 
-![arthur_node_jsx_diagram_photoshopped](https://media.git.generalassemb.ly/user/15881/files/c2cf4100-2e61-11eb-913c-d8b656fd9709)
-
-![mvc-meme](https://media.git.generalassemb.ly/user/15881/files/24990200-9460-11ea-8f91-a81163b612d5)
+<img width="871" height="423" alt="mvc" src="https://github.com/user-attachments/assets/0aa4a63f-ecc8-4872-83cb-28da34501cf5" />
 
 </div>
 </center>
@@ -1063,9 +1059,7 @@ app.listen(PORT, () =>{
 
 <div style="display: flex; justify-content: space-between;">
 
-![arthur_node_jsx_diagram_photoshopped](https://media.git.generalassemb.ly/user/15881/files/c2cf4100-2e61-11eb-913c-d8b656fd9709)
-
-![mvc-meme](https://media.git.generalassemb.ly/user/15881/files/24990200-9460-11ea-8f91-a81163b612d5)
+ <img width="871" height="423" alt="mvc" src="https://github.com/user-attachments/assets/0aa4a63f-ecc8-4872-83cb-28da34501cf5" />
 
 </div>
 </center>
