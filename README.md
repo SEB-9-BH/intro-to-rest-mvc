@@ -6,15 +6,7 @@ type: "lecture"
 
 ![](https://i.imgur.com/vUOu9NW.jpg)
 
- <iframe
-  src="https://player.cloudinary.com/embed/?public_id=arthur_index_new_create_show_gf4ydr&cloud_name=seventh-ave-inc&source[sourceTypes][0]=webm%2Fvp9&source[sourceTypes][1]=mp4%2Fh265&source[sourceTypes][2]=mp4&source[sourceTypes][3]=mp4%2Fh264"
-  width="640"
-  height="360" 
-  style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
-  allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-  allowfullscreen
-  frameborder="0"
-></iframe>
+[video1](https://player.cloudinary.com/embed/?public_id=arthur_index_new_create_show_gf4ydr&cloud_name=seventh-ave-inc&source[sourceTypes][0]=webm%2Fvp9&source[sourceTypes][1]=mp4%2Fh265&source[sourceTypes][2]=mp4&source[sourceTypes][3]=mp4%2Fh264)
 
 
 
@@ -589,15 +581,7 @@ app.listen(PORT, () =>{
 
 ![](https://i.imgur.com/vUOu9NW.jpg)
 
- <iframe
-  src="https://player.cloudinary.com/embed/?public_id=arthur_edit_update_delete_mqmn3k&cloud_name=seventh-ave-inc&source[sourceTypes][0]=webm%2Fvp9&source[sourceTypes][1]=mp4%2Fh265&source[sourceTypes][2]=mp4&source[sourceTypes][3]=mp4%2Fh264"
-  width="640"
-  height="360" 
-  style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
-  allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-  allowfullscreen
-  frameborder="0"
-></iframe>
+[video2](https://player.cloudinary.com/embed/?public_id=arthur_edit_update_delete_mqmn3k&cloud_name=seventh-ave-inc&source[sourceTypes][0]=webm%2Fvp9&source[sourceTypes][1]=mp4%2Fh265&source[sourceTypes][2]=mp4&source[sourceTypes][3]=mp4%2Fh264)
 
 
 
